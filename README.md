@@ -1,7 +1,7 @@
-# ꑛꍟ꒒꒒ßꆂ꓅
-![Hellbot](https://telegra.ph/file/ce776ec0cea13d33212ec.jpg)
+# Aʟᴇxᴀ
+![Alexa](https://in.pinterest.com/pin/648729521315041605/)
 A Telegram Group MANAGER Bot It Can Easily Manage Your Group!!!!!
-## About Hellbot 
+## About Aʟᴇxᴀ 
 A Telegram Group MANAGER Bot. Made [Duvvado jagannadham](https://t.me/Beast_boy_shubu) . This Bot has AI feature (It can Talk Like Humans) Group manager bot.
 <a href="https://t.me/HellSupportChannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/HellSupportGroup"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram"></a>
