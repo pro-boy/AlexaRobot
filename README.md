@@ -6,4 +6,4 @@ A Telegram Pro Group MANAGER Bot. Made by [Duvvado jagannadham](https://t.me/Bea
 
 ## Fᴏʀᴋ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪsᴋ
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 
-
+- deploy to heroku 
