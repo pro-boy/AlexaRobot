@@ -4,10 +4,10 @@ A Telegram Group MANAGER Bot It Can Easily Manage Your Group!!!!!
 ## Aʙᴏᴜᴛ Aʟᴇxᴀ 
 A Telegram Pro Group MANAGER Bot. Made by [Duvvado jagannadham](https://t.me/Beast_boy_shubu) . This Bot has AI feature (It can Talk Like Humans) Group manager bot.
 
-# Fᴏʀᴋ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪsᴋ
+### Fᴏʀᴋ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪsᴋ
 
 
-### Hᴏᴡ ᴛᴏ sᴇᴛᴜᴘ/ᴅᴇᴘʟᴏʏ.
+# Hᴏᴡ ᴛᴏ sᴇᴛᴜᴘ/ᴅᴇᴘʟᴏʏ.
 
 ## Read these notes carefully before proceeding 
  - Edit any mentions of @AlexaBotSuppOrt to your own support chat. 
