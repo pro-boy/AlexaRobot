@@ -56,3 +56,6 @@ class Development(Config):
     LOAD = []
     NO_LOAD = ['translation']
 ```
+
+If you can't have a config.py file (EG on heroku), it is also possible to use environment variables.
+The following env variables are supported:
