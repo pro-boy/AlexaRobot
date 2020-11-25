@@ -15,5 +15,6 @@ A Telegram Pro Group MANAGER Bot. Made by [Duvvado jagannadham](https://t.me/Bea
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
 
 # Dᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+Click below icon to create own Alexa Bot. 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
