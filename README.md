@@ -17,7 +17,7 @@ A Telegram Pro Group MANAGER Bot. Made by [Duvvado jagannadham](https://t.me/Bea
 # Dᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 Click below icon to create own Alexa Bot.
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fshubhanshdj%2FAlexaRobot%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2Fshubhanshdj%2FAlexaRobot%2Ftree%2Fmain)
 
 ## Starting the bot.
 
