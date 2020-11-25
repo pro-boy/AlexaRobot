@@ -3,3 +3,5 @@
 Alexa Bot Advanced Telegram Group manager Bot created by [Duvvado Jagannadham](https://t.me/Beast_boy_shubu).
 # Aʙᴏᴜᴛ Aʟᴇxᴀ 
 Aʟᴇxᴀ ɪs ᴀ ᴀᴅᴠᴀɴᴄᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ ɪᴛ ᴄᴀɴ ᴇᴀsɪʟʏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+# Hᴏᴡ ᴛᴏ Sᴇᴛᴜᴘ ᴀɴᴅ ᴅᴇᴘʟᴏʏ
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
